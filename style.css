@@ -1,0 +1,21 @@
+
+body{
+  background-position: top;
+  background-image: url(header.jpg);
+  background-size: auto;
+
+}
+.dok{
+  color:white;
+  font-family:cursive;
+  text-align: center;
+  margin-top: 350PX;
+  margin-bottom: 280px;
+  text-size:3em;
+
+}
+.btn{
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+}
